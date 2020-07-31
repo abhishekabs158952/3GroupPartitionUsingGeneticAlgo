@@ -7,9 +7,9 @@ variable
 1.)noOfStu : number of students
 2.)crossmut[50] : value of ith student present in group no. (values : 0,1,2 (3-groups))
 3.)marks[noOfStu] : marks of ith student(choosen randomly)
-4.)solution[50][noOfstu] : 
-5.)sol[50][noOfstu] :
-6.)solId[25][2] :
+4.)solution[50][noOfstu] : contain 50 solution for problem
+5.)sol[50][noOfstu] : contain 50 solution for problem(updated)
+6.)solId[25][2] : best 25 solution id
 
 Program :
 main :
